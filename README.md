@@ -1,4 +1,5 @@
 # Playful Paper Title Generation Tryout Project
+Akhil Karumuri
 
 This is a tryout project for Professor Jordan Boyd-Graber, where I tried to figure out which paper titles are “playful” vs normal.
 
