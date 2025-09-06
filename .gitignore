@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+.ipynb_checkpoints/
+
+data/raw/
+*.zip
+*.gz
+
+*.csv
+!data/processed/playful_titles_only.csv
+!data/processed/papers.csv.gz
+!data/processed/papers_with_playfulness.csv.gz
